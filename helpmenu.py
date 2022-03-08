@@ -211,13 +211,13 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ➪ @P_4_PEEYUSH
+╠═ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ➪ @KING_X_OWNER
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/tronixbotsupport)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/DEXDECRYPT_X_FLAME_FIGHTERS)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/spammerbots)
+╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Oplphgcsf/TronixSpam)
 ║
 ╚═════════════════╝
 
-**[©️](https://te.legra.ph/file/045d419efd37fd56e8562.jpg) @P_4_PEEYUSH**
+**[©️](https://te.legra.ph/file/649c490e9af522d47b883.jpg) @KING_X_OWNER**
 """
