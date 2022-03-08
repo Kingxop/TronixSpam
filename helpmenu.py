@@ -40,7 +40,7 @@ i) {hn}packspam (replying to any sticker)
 Syntax:
 i) {hn}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-**©️ @P_4_PEEYUSH**
+**©️ @KING_X_OWNER**
 """
 curse_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -75,7 +75,7 @@ i) {hn}dreplycurse <replying to anyone>
 ii) {hn}dreplycurse <username>
 
 
-**©️ @P_4_PEEYUSH**
+**©️ @KING_X_OWNER**
 """
 sudo_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -86,7 +86,7 @@ sudo_menu = f"""
 **{hn}alive**: Check if bot is alive.
 
 
-**©️ @P_4_PEEYUSH**
+**©️ @KING_X_OWNER**
 """
 
 dev_menu = f"""
@@ -103,7 +103,7 @@ ii) {hn}leave
 
 **{hn}reboot**: Restarts the bot!(Too fast! **Supersonic**)
 
-**©️ @P_4_PEEYUSH**
+**©️ @KING_X_OWNER**
 """
 
 
@@ -134,7 +134,7 @@ i) {hn}join <Private chat's hash>
 Note: If all you have is a link like this one: https://t.me/joinchat/AAAAAFFszQPyPEZ7wgxLtd, The part after the https://t.me/joinchat/, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
 
 
-**©️ @P_4_PEEYUSH**
+**©️ @KING_X_OWNER**
 """
 
 
@@ -158,7 +158,7 @@ help_menu = f"""
 **Example**: ```{hn}help spamcmds```
 
 
-**©️ @P_4_PEEYUSH**
+**©️ @KING_X_OWNER**
 """
 
 alive_temxt = f"""
@@ -169,18 +169,18 @@ alive_temxt = f"""
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ - @P_4_PEEYUSH
+╠ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ - @KING_X_OWNER
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/tronixbotsupport)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/DEXDECRYPT_X_FLAME_FIGHTERS)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ Buy From @P_4_PEEYUSH
+╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪  From @KING_X_OWNER
 ║
 ╚═════════════════╝
 
-**[©️]({ALIVE_MEDIA}) @P_4_PEEYUSH**
+**[©️]({ALIVE_MEDIA}) @KING_X_OWNER**
 """
 
-glad_logo = "https://te.legra.ph/file/045d419efd37fd56e8562.jpg"
+glad_logo = "https://te.legra.ph/file/649c490e9af522d47b883.jpg"
 
 
 start_caption = f"""
